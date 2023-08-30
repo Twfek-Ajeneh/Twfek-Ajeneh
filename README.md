@@ -3,7 +3,7 @@ I'm thrilled to have you here. My name is Twfek-Ajeneh, and I'm a passionate Rea
 
 My journey in software development started during my studies at Damascus University. As a dedicated student, I have acquired a strong foundation in software engineering principles, algorithms, and data structures. My participation in the ICPC has sharpened my problem-solving skills and enhanced my ability to write efficient and optimized code. 💡
 
-While my primary focus is on React development, I also have experience with various front-end technologies, including HTML5, CSS3, and JavaScript. I am well-versed in building user-friendly and responsive web applications using modern frameworks and libraries. 🌐
+While my primary focus is on React development, I also have experience with various front-end technologies, including HTML5, CSS3, and JavaScript-TypeScript. I am well-versed in building user-friendly and responsive web applications using modern frameworks and libraries. 🌐
 
 GitHub Projects:
 ----------------
@@ -16,7 +16,6 @@ Connect with Me:
 ----------------
 
 In addition to my projects and contributions, I am actively searching for new opportunities to further enhance my skills and contribute to meaningful projects. If you have any exciting opportunities or collaborations in the field of React development or software engineering, I would love to hear from you. Let's connect and explore the possibilities together! 🤝
-
 
 
 Thank you for visiting my GitHub profile. I hope you find my projects informative and inspiring. Let's innovate, learn, and create amazing things together! ✨
