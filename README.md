@@ -5,14 +5,14 @@ My journey in software development started during my studies at Damascus Univers
 
 While my primary focus is on React development, I also have experience with various front-end technologies, including HTML5, CSS3, and JavaScript-TypeScript. I am well-versed in building user-friendly and responsive web applications using modern frameworks and libraries. 🌐
 
-GitHub Projects:
+### GitHub Projects:
 ----------------
 
 Within my GitHub repositories, you will find a diverse range of projects that showcase my skills and interests. These projects reflect my passion for creating innovative solutions and my dedication to writing clean and maintainable code. I believe in the power of open-source collaboration and constantly strive to contribute to projects that have a positive impact on the developer community. 😊
 
 As a software engineering student and a developer, I am committed to continuous learning and growth. I am always seeking opportunities to expand my knowledge and stay up-to-date with the latest industry trends. I approach every project with enthusiasm, attention to detail, and a strong desire to deliver high-quality results. 📚
 
-Connect with Me:
+### Connect with Me:
 ----------------
 
 In addition to my projects and contributions, I am actively searching for new opportunities to further enhance my skills and contribute to meaningful projects. If you have any exciting opportunities or collaborations in the field of React development or software engineering, I would love to hear from you. Let's connect and explore the possibilities together! 🤝
