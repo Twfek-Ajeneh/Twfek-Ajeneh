@@ -31,6 +31,25 @@ In addition to my projects and contributions, I am actively searching for new op
 [b-telegram]: https://img.shields.io/badge/telegram-03a2cc.svg?style=for-the-badge&logo=telegram&logoColor=white
 [b-reddit]: https://img.shields.io/badge/reddit-ff4500.svg?style=for-the-badge&logo=reddit&logoColor=white
 
+### Programming Languages:
+----------------
+
+I have gained extensive experience and have primarily focused on the following programming languages, listed in descending order of experience and usage:
+
+![TypeScript][b-typescript] ![JavaScript][b-javascript] ![C++][b-cpp] ![Java][b-java] 
+
+[b-typescript]: https://img.shields.io/badge/typescript-3178c6.svg?style=for-the-badge&logo=typescript&logoColor=white
+[b-javascript]: https://img.shields.io/badge/javascript-ead41c.svg?style=for-the-badge&logo=javascript&logoColor=black
+[b-cpp]: https://img.shields.io/badge/c%2b%2b-00599c.svg?style=for-the-badge&logo=c%2b%2b&logoColor=white
+[b-java]: https://img.shields.io/badge/java-ffffff.svg?style=for-the-badge&logo=j&color=red
+
+And of course with markup/style languages:    
+
+![HTML5][b-html] ![CSS3][b-css]
+
+[b-html]: https://img.shields.io/badge/html5-ffffff.svg?style=for-the-badge&logo=html5&logoColor=e96228
+[b-css]: https://img.shields.io/badge/css3-ffffff.svg?style=for-the-badge&logo=css3&logoColor=2862e9
+
 Thank you for visiting my GitHub profile. I hope you find my projects informative and inspiring. Let's innovate, learn, and create amazing things together! ✨
 
 Happy coding! 💻
