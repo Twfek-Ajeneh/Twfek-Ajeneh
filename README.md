@@ -17,6 +17,19 @@ As a software engineering student and a developer, I am committed to continuous 
 
 In addition to my projects and contributions, I am actively searching for new opportunities to further enhance my skills and contribute to meaningful projects. If you have any exciting opportunities or collaborations in the field of React development or software engineering, I would love to hear from you. Let's connect and explore the possibilities together! 🤝
 
+[![email][b-email]][l-email] [![Facebook][b-facebook]][l-facebook] [![LinkedIn][b-linkedin]][l-linkedin] [![Telegram][b-telegram]][l-telegram] [![Reddit][b-reddit]][l-reddit]
+
+[l-email]: mailto:twfekajeneh@gmail.com
+[l-facebook]: https://www.facebook.com/twfek.ajeneh.10
+[l-linkedin]: https://www.linkedin.com/in/twfek-ajeneh-7a963722b/
+[l-telegram]: https://t.me/Twfek_Ajeneh
+[l-reddit]: https://www.reddit.com/user/Twfek_Ajeneh
+
+[b-email]: https://img.shields.io/badge/email-ea4335.svg?style=for-the-badge&logo=gmail&logoColor=white
+[b-facebook]:  https://img.shields.io/badge/facebook-0a66c2.svg?style=for-the-badge&logo=facebook&logoColor=white
+[b-linkedin]: https://img.shields.io/badge/linkedin-ffffff.svg?style=for-the-badge&logo=linkedin&logoColor=0a66c2
+[b-telegram]: https://img.shields.io/badge/telegram-03a2cc.svg?style=for-the-badge&logo=telegram&logoColor=white
+[b-reddit]: https://img.shields.io/badge/reddit-ff4500.svg?style=for-the-badge&logo=reddit&logoColor=white
 
 Thank you for visiting my GitHub profile. I hope you find my projects informative and inspiring. Let's innovate, learn, and create amazing things together! ✨
 
