@@ -40,6 +40,8 @@ In addition to my projects and contributions, I am actively searching for new op
 
 I have gained extensive experience and have primarily focused on the following programming languages, listed in descending order of experience and usage:
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Twfek-Ajeneh&show_icons=true&locale=en&layout=compact" alt="Twfek-Ajeneh" /></p>
+
 ![TypeScript][b-typescript] ![JavaScript][b-javascript] ![C++][b-cpp] ![Java][b-java] 
 
 [b-typescript]: https://img.shields.io/badge/typescript-3178c6.svg?style=for-the-badge&logo=typescript&logoColor=white
@@ -53,6 +55,8 @@ And of course with markup/style languages:
 
 [b-html]: https://img.shields.io/badge/html5-ffffff.svg?style=for-the-badge&logo=html5&logoColor=e96228
 [b-css]: https://img.shields.io/badge/css3-ffffff.svg?style=for-the-badge&logo=css3&logoColor=2862e9
+
+
 
 ### Frameworks, and Libraries:
 ----------------
