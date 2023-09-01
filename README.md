@@ -17,19 +17,23 @@ As a software engineering student and a developer, I am committed to continuous 
 
 In addition to my projects and contributions, I am actively searching for new opportunities to further enhance my skills and contribute to meaningful projects. If you have any exciting opportunities or collaborations in the field of React development or software engineering, I would love to hear from you. Let's connect and explore the possibilities together! 🤝
 
-[![email][b-email]][l-email] [![Facebook][b-facebook]][l-facebook] [![LinkedIn][b-linkedin]][l-linkedin] [![Telegram][b-telegram]][l-telegram] [![Reddit][b-reddit]][l-reddit]
+[![email][b-email]][l-email] [![Facebook][b-facebook]][l-facebook] [![LinkedIn][b-linkedin]][l-linkedin] [![Telegram][b-telegram]][l-telegram] [![Reddit][b-reddit]][l-reddit] [![CodeForces][b-codeforces]][l-codeforces] [![LeetCode][b-leetcode]][l-leetcode]
 
 [l-email]: mailto:twfekajeneh@gmail.com
 [l-facebook]: https://www.facebook.com/twfek.ajeneh.10
 [l-linkedin]: https://www.linkedin.com/in/twfek-ajeneh-7a963722b/
 [l-telegram]: https://t.me/Twfek_Ajeneh
 [l-reddit]: https://www.reddit.com/user/Twfek_Ajeneh
+[l-codeforces]: https://codeforces.com/profile/Twfek_Ajeneh
+[l-leetcode]: https://leetcode.com/twfekajeneh/
 
 [b-email]: https://img.shields.io/badge/email-ea4335.svg?style=for-the-badge&logo=gmail&logoColor=white
 [b-facebook]:  https://img.shields.io/badge/facebook-0a66c2.svg?style=for-the-badge&logo=facebook&logoColor=white
 [b-linkedin]: https://img.shields.io/badge/linkedin-ffffff.svg?style=for-the-badge&logo=linkedin&logoColor=0a66c2
 [b-telegram]: https://img.shields.io/badge/telegram-03a2cc.svg?style=for-the-badge&logo=telegram&logoColor=white
 [b-reddit]: https://img.shields.io/badge/reddit-ff4500.svg?style=for-the-badge&logo=reddit&logoColor=white
+[b-codeforces]: https://img.shields.io/badge/codeforces-ffffff.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCAyNCAyNCI+Cgk8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJCS5zdDB7ZmlsbDojQUUwRjBBO30KCQkuc3Qxe2ZpbGw6IzRGODFDMTt9CgkJLnN0MntmaWxsOiNGRkQ0MDA7fQoJPC9zdHlsZT4KCTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0yMi41LDEwLjVjMC44LDAsMS41LDAuNywxLjUsMS41djcuNWMwLDAuOC0wLjcsMS41LTEuNSwxLjVoLTNjLTAuOCwwLTEuNS0wLjctMS41LTEuNVYxMmMwLTAuOCwwLjctMS41LDEuNS0xLjVIMjIuNXoiLz4KCTxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik0xMy41LDNDMTQuMywzLDE1LDMuNywxNSw0LjV2MTVjMCwwLjgtMC43LDEuNS0xLjUsMS41aC0zQzkuNywyMSw5LDIwLjMsOSwxOS41di0xNUM5LDMuNyw5LjcsMywxMC41LDNIMTMuNXoiLz4KCTxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik00LjUsNy41QzUuMyw3LjUsNiw4LjIsNiw5djEwLjVDNiwyMC4zLDUuMywyMSw0LjUsMjFoLTNDMC43LDIxLDAsMjAuMywwLDE5LjVWOWMwLTAuOCwwLjctMS41LDEuNS0xLjVINC41eiIvPgo8L3N2Zz4=&logoColor=0a66c2
+[b-leetcode]: https://img.shields.io/badge/LeetCode-000000.svg?style=for-the-badge&logo=leetcode
 
 ### Programming Languages:
 ----------------
