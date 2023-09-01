@@ -38,9 +38,9 @@ In addition to my projects and contributions, I am actively searching for new op
 ### Programming Languages:
 ----------------
 
-I have gained extensive experience and have primarily focused on the following programming languages, listed in descending order of experience and usage:
-
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Twfek-Ajeneh&show_icons=true&locale=en&layout=compact" alt="Twfek-Ajeneh" /></p>
+
+I have gained extensive experience and have primarily focused on the following programming languages, listed in descending order of experience and usage:
 
 ![TypeScript][b-typescript] ![JavaScript][b-javascript] ![C++][b-cpp] ![Java][b-java] 
 
