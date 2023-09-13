@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm thrilled to have you here. My name is Twfek-Ajeneh, and I'm a passionate React Developer and 4th Software Engineering student at Damascus University. I am also proud to be a contestant at the International Collegiate Programming Contest (ICPC). On this GitHub account, you'll find a collection of my projects, code contributions, and personal endeavors in the world of software development. 🚀
+I'm thrilled to have you here. My name is Twfek-Ajeneh, and I'm a passionate React Developer and 5th Software Engineering student at Damascus University. I am also proud to be a contestant at the International Collegiate Programming Contest (ICPC). On this GitHub account, you'll find a collection of my projects, code contributions, and personal endeavors in the world of software development. 🚀
 
 My journey in software development started during my studies at Damascus University. As a dedicated student, I have acquired a strong foundation in software engineering principles, algorithms, and data structures. My participation in the ICPC has sharpened my problem-solving skills and enhanced my ability to write efficient and optimized code. 💡
 
