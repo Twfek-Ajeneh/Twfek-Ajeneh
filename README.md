@@ -80,7 +80,7 @@ I am proficient in a wide range of frameworks, libraries, and tools that enhance
 
 Here, you'll find an overview of the various tools I am proficient in:
 
-![VS-Code][b-vs-code] ![Idea][b-idea] ![Vite][b-vite] ![Webpack][b-webpack] ![Opera][b-opera] ![Git][b-git] ![Github][b-github] ![Gitlab][b-gitlab]
+![VS-Code][b-vs-code] ![Idea][b-idea] ![Vite][b-vite] ![Webpack][b-webpack] ![Opera][b-opera] ![Jira][b-jira] ![Git][b-git] ![bitbucket][b-bitbucket] ![Github][b-github] ![Gitlab][b-gitlab]
 
 [b-vs-code]: https://img.shields.io/badge/%20-vs%20code-007acc.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007acc&labelColor=white&color=007acc
 [b-git]: https://img.shields.io/badge/%20-Git-blue?style=for-the-badge&logo=Git&logoColor=F05032&labelColor=white&color=F05032
@@ -90,7 +90,8 @@ Here, you'll find an overview of the various tools I am proficient in:
 [b-gitlab]: https://img.shields.io/badge/%20-Gitlab-000000?style=for-the-badge&logo=gitlab&logoColor=e24329&labelColor=white&color=e24329
 [b-idea]: https://img.shields.io/badge/%20-Idea-000000?style=for-the-badge&logo=intellij-idea&logoColor=000000&labelColor=white&color=000000
 [b-webpack]: https://img.shields.io/badge/%20-Webpack-white?style=for-the-badge&logo=webpack&logoColor=8dd6f9&labelColor=white&color=8dd6f9
-
+[b-jira]: https://img.shields.io/badge/%20-Jira-blue?style=for-the-badge&logo=jira&logoColor=0a0fff&labelColor=white&color=0a0fff
+[b-bitbucket]: https://img.shields.io/badge/%20-bitbucket-blue?style=for-the-badge&logo=bitbucket&logoColor=0047B3&labelColor=white&color=0047B3
 Thank you for visiting my GitHub profile. I hope you find my projects informative and inspiring. Let's innovate, learn, and create amazing things together! ✨
 
 Happy coding! 💻
